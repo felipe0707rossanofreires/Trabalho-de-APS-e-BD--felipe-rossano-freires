@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(203, 225, 234);
+}
+body { 
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px; 
+    margin-right: 40px;
+     margin-bottom: 10px; 
+     margin-left: 70px; 
+    } 
+#img{
+    text-align: center;
+}
+#nome{
+    font-size: 40px;
+    text-align: center;
+    color:cornflowerblue
+    
+}
+#slogan{
+    text-align: center;
+    color:cornflowerblue
+}
+#menu{
+    width: 150px center;
+    height: 200px center;
+    border: 5px solid rgb(22, 42, 80);
+    padding: 20px center;
+    margin: 15px center;
+    text-align: center;
+    background-color:darkgrey;
+}
+#link{
+    width: 500px;
+    height: 10px;
+    border: 5px solid rgb(22, 42, 80);
+    padding: 10px;
+    margin: 15px;
+    background-color:darkgrey;
+} 
+#topicos{
+    color: black;
+    font-size: 20px;
+}
+#parag-1{
+    color: black;
+    font-size: 20px;
+}
+#h1-1{
+    color:rgb(22, 42, 80);
+}
+#h2-1{
+    color:rgb(22, 42, 80);
+}
+#h1-2{
+    color: rgb(22, 42, 80);
+}
+#h2-2{
+    color: rgb(22, 42, 80);
+}
+#footer{
+    width: 300px center;
+        height: 50px;
+        border: 5px solid rgb(22, 42, 80);
+        padding: 20px;
+        margin: 5px;
+        text-align: center;
+        font-size: 18px;
+        background-color: cornflowerblue;
+}
